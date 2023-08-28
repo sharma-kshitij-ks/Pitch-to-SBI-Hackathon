@@ -13,6 +13,9 @@ We have deployed highly scalable, open source data transaction streamer of Kafka
 
 Anomaly detectors are not as scalable and can only predict based on the patterns learned from training data. In the modern world fraud threats evolve over time and hence there is a need for models that learn based on incoming data aswell, learning new threats and evolving overtime, hence ANN models are most accurate for this application. The training data and ANN model is as close to real world as possible with consideration of identity. Kafka is open source , highly scalable real time data straming network, which has been utilised.
 
+DEMO:-
+https://youtu.be/G1d4G0f5wqg
+
 ## Tech Stack: 
    kafka, ml libraries
 
